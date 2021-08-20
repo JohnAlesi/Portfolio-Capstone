@@ -37,7 +37,7 @@ body {
 .p2 {
 	padding-top: 25%;
 	color: white;
-	text-align: left;
+	text-align: center;
 	font-size: 32px;
 	font-family: 'BioRhyme Expanded', serif;
 }
@@ -46,14 +46,15 @@ body {
 	color: white;
 	text-align: left;
 	font-size: 16px;
+	padding-left: 20px; 
 	font-family: 'BioRhyme Expanded', serif;
 }
 
 
 .hireme {
 	font-family: 'BioRhyme Expanded', serif;
-	margin-right: 70%;
-	position: relative;
+	padding-left: 20px;
+	position: absolute;
 }
 /* Footer */
 

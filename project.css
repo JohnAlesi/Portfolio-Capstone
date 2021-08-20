@@ -1,3 +1,9 @@
+html {
+	scroll-behavior: smooth;
+}
+
+
+
 body {
 	background-image: url(./Images/bgimage.jpg);
 	background-repeat: no-repeat;

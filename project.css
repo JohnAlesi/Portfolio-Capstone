@@ -27,7 +27,11 @@ body {
 	color: white;
 }
 
-
+.tools {
+	border-color: white;
+	font-family: 'BioRhyme Expanded', serif;
+	color: white;
+}
 
 .footer {
 	color: black;
